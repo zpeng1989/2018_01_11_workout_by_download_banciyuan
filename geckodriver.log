@@ -1,0 +1,243 @@
+1515554930980	geckodriver	INFO	geckodriver 0.19.1
+1515554930986	geckodriver	INFO	Listening on 127.0.0.1:57153
+1515554932977	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\zhangp\\AppData\\Local\\Temp\\rust_mozprofile.kRqsfIjpTJRh"
+1515554964987	geckodriver	INFO	geckodriver 0.19.1
+1515554964992	geckodriver	INFO	Listening on 127.0.0.1:57245
+1515554966977	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\zhangp\\AppData\\Local\\Temp\\rust_mozprofile.o1ozAB2N94Y9"
+1515554967669	Marionette	INFO	Enabled via --marionette
+1515554969148	Marionette	INFO	Listening on port 57256
+1515554970135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515554970181	Marionette	DEBUG	Register listener.js for window 4294967297
+1515554970201	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515554970869	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515554970869	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://staticfile.qnssl.com/jquery/1.10.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515554971595	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.wjx.top/m/19773335.aspx"
+1515554971818	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.wjx.top/m/19773335.aspx"
+1515554972047	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515554972301	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515554972518	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515554972752	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515554972987	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515554973222	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515554973466	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515554973699	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515554973957	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515554974210	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515554974467	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515554974702	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515554974932	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515554975163	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515554975248	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.wjx.top/m/19773335.aspx#"
+1515554975276	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.wjx.top/m/19773335.aspx#"
+1515554975277	Marionette	DEBUG	Received DOM event "unload" for "https://www.wjx.top/m/19773335.aspx#"
+JavaScript warning: https://staticfile.qnssl.com/jquery/1.10.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515554975316	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.wjx.top/wjx/join/completemobile2.aspx?activity=19773335&joinactivity=101274837688&jidx=151&jpm=11&rname=zhangpeng"
+1515554975462	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.wjx.top/wjx/join/completemobile2.aspx?activity=19773335&joinactivity=101274837688&jidx=151&jpm=11&rname=zhangpeng"
+1515577292294	geckodriver	INFO	geckodriver 0.19.1
+1515577292299	geckodriver	INFO	Listening on 127.0.0.1:60681
+1515577294309	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\zhangp\\AppData\\Local\\Temp\\rust_mozprofile.48fRch7UfMcG"
+1515577294801	Marionette	INFO	Enabled via --marionette
+[Child 26672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515577296919	Marionette	INFO	Listening on port 60691
+1515577297455	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515577297496	Marionette	DEBUG	Register listener.js for window 4294967297
+1515577297509	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515577298321	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515577298322	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://staticfile.qnssl.com/jquery/1.10.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515577298732	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.wjx.top/m/19773335.aspx"
+1515577298931	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.wjx.top/m/19773335.aspx"
+1515577299152	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577299445	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577299660	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577299971	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577300211	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577300442	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577300712	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577300945	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577301213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577301459	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577301744	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577302031	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577302300	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577302581	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577302683	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.wjx.top/m/19773335.aspx#"
+1515577302725	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.wjx.top/m/19773335.aspx#"
+1515577302725	Marionette	DEBUG	Received DOM event "unload" for "https://www.wjx.top/m/19773335.aspx#"
+JavaScript warning: https://staticfile.qnssl.com/jquery/1.10.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515577302757	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.wjx.top/wjx/join/completemobile2.aspx?activity=19773335&joinactivity=101273814211&jidx=153&jpm=11&rname=zhangpeng"
+1515577302867	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.wjx.top/wjx/join/completemobile2.aspx?activity=19773335&joinactivity=101273814211&jidx=153&jpm=11&rname=zhangpeng"
+1515577303156	geckodriver	INFO	geckodriver 0.19.1
+1515577303162	geckodriver	INFO	Listening on 127.0.0.1:60831
+1515577305189	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\zhangp\\AppData\\Local\\Temp\\rust_mozprofile.mzAguNEJ7QS9"
+1515577305665	Marionette	INFO	Enabled via --marionette
+[Child 24380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515577306841	Marionette	INFO	Listening on port 60841
+1515577307233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515577307271	Marionette	DEBUG	Register listener.js for window 4294967297
+1515577307287	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515577308078	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515577308078	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://staticfile.qnssl.com/jquery/1.10.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515577309559	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.wjx.top/m/19773335.aspx"
+1515577309769	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.wjx.top/m/19773335.aspx"
+1515577309989	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577310264	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577310482	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577310738	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577311027	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577311288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577311534	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577311823	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577312064	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577312340	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577312567	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577312847	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577313078	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577313333	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577313480	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.wjx.top/m/19773335.aspx#"
+1515577313508	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.wjx.top/m/19773335.aspx#"
+1515577313509	Marionette	DEBUG	Received DOM event "unload" for "https://www.wjx.top/m/19773335.aspx#"
+JavaScript warning: https://staticfile.qnssl.com/jquery/1.10.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515577313541	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.wjx.top/wjx/join/completemobile2.aspx?activity=19773335&joinactivity=101273814742&jidx=154&jpm=11&rname=zhangpeng"
+1515577313687	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.wjx.top/wjx/join/completemobile2.aspx?activity=19773335&joinactivity=101273814742&jidx=154&jpm=11&rname=zhangpeng"
+1515577314015	geckodriver	INFO	geckodriver 0.19.1
+1515577314020	geckodriver	INFO	Listening on 127.0.0.1:60982
+1515577316054	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\zhangp\\AppData\\Local\\Temp\\rust_mozprofile.O36ddfkXAFzk"
+1515577316653	Marionette	INFO	Enabled via --marionette
+1515577322345	Marionette	INFO	Listening on port 60994
+1515577322433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515577322474	Marionette	DEBUG	Register listener.js for window 4294967297
+1515577322493	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515577323191	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515577323192	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://staticfile.qnssl.com/jquery/1.10.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515577323602	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.wjx.top/m/19773335.aspx"
+1515577323821	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.wjx.top/m/19773335.aspx"
+1515577324040	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577324299	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577324511	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577324814	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577325078	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577325327	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577325590	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577325862	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577326106	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577326355	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577326584	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577326840	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577327126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577327352	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515577327420	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.wjx.top/m/19773335.aspx#"
+1515577327450	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.wjx.top/m/19773335.aspx#"
+1515577327450	Marionette	DEBUG	Received DOM event "unload" for "https://www.wjx.top/m/19773335.aspx#"
+JavaScript warning: https://staticfile.qnssl.com/jquery/1.10.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515577327485	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.wjx.top/wjx/join/completemobile2.aspx?activity=19773335&joinactivity=101273813170&jidx=155&jpm=11&rname=zhangpeng"
+1515577327592	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.wjx.top/wjx/join/completemobile2.aspx?activity=19773335&joinactivity=101273813170&jidx=155&jpm=11&rname=zhangpeng"
+1515578570126	geckodriver	INFO	geckodriver 0.19.1
+1515578570131	geckodriver	INFO	Listening on 127.0.0.1:63311
+1515578572110	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\zhangp\\AppData\\Local\\Temp\\rust_mozprofile.dayZe4cYNhJm"
+1515578572699	Marionette	INFO	Enabled via --marionette
+[Child 20716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515578573752	Marionette	INFO	Listening on port 63323
+1515578574159	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515578574197	Marionette	DEBUG	Register listener.js for window 4294967297
+1515578574209	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515578574767	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515578574767	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://staticfile.qnssl.com/jquery/1.10.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515578575213	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.wjx.cn/m/13467050.aspx"
+1515578575441	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.wjx.cn/m/13467050.aspx"
+1515578575661	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578575886	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578576157	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578576374	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578576586	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578576801	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578577020	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578577233	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578577445	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578577718	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578578104	geckodriver	INFO	geckodriver 0.19.1
+1515578578110	geckodriver	INFO	Listening on 127.0.0.1:63400
+1515578580114	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\zhangp\\AppData\\Local\\Temp\\rust_mozprofile.9CXSa9RwOaIH"
+1515578580600	Marionette	INFO	Enabled via --marionette
+[Parent 16580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515578581704	Marionette	INFO	Listening on port 63412
+1515578582172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515578582216	Marionette	DEBUG	Register listener.js for window 4294967297
+1515578582229	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515578582731	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515578582731	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://staticfile.qnssl.com/jquery/1.10.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515578583373	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.wjx.top/m/19773335.aspx"
+1515578583606	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.wjx.top/m/19773335.aspx"
+1515578583856	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578584111	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578584324	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578584557	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578584834	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578585086	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578585397	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578585674	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578585937	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.wjx.top/m/19773335.aspx#"
+1515578585959	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.wjx.top/m/19773335.aspx#"
+1515578585960	Marionette	DEBUG	Received DOM event "unload" for "https://www.wjx.top/m/19773335.aspx#"
+1515578585964	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Child 22176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515578618590	geckodriver	INFO	geckodriver 0.19.1
+1515578618595	geckodriver	INFO	Listening on 127.0.0.1:63552
+1515578620619	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\zhangp\\AppData\\Local\\Temp\\rust_mozprofile.vEf5kW4Tk0P1"
+1515578621210	Marionette	INFO	Enabled via --marionette
+[Child 22892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515578626645	Marionette	INFO	Listening on port 63564
+1515578626975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515578627012	Marionette	DEBUG	Register listener.js for window 4294967297
+1515578627026	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515578627520	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515578627520	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://staticfile.qnssl.com/jquery/1.10.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515578628559	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.wjx.cn/m/13467050.aspx"
+1515578628796	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.wjx.cn/m/13467050.aspx"
+1515578629059	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578629297	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578629509	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578629750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578629969	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578630190	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578630401	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578630614	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578630826	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578631058	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515578631450	geckodriver	INFO	geckodriver 0.19.1
+1515578631455	geckodriver	INFO	Listening on 127.0.0.1:63650
+1515578633531	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\zhangp\\AppData\\Local\\Temp\\rust_mozprofile.2CyTpcQJpSCf"
+1515578639702	Marionette	INFO	Enabled via --marionette
+thread '<unnamed>' panicked at 'called `Result::unwrap()` on an `Err` value: Error { repr: Os { code: 10054, message: "远程主机强迫关闭了一个现有的连接。" } }', src\libcore\result.rs:906:4
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+zhangp\\AppData\\Local\\Temp\\rust_mozprofile.MM6Tm8oNkzqo"
+1515578999051	Marionette	INFO	Enabled via --marionette
+1515579000119	Marionette	INFO	Listening on port 65136
+1515579000601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515579000640	Marionette	DEBUG	Register listener.js for window 4294967297
+1515579000654	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515579001132	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515579001132	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://staticfile.qnssl.com/jquery/1.10.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515579001528	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.wjx.cn/m/13467050.aspx"
+1515579001753	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.wjx.cn/m/13467050.aspx"
+1515579001972	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515579002185	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515579002399	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515579002613	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515579002825	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515579003040	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515579003250	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515579003461	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515579003672	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515579003902	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
